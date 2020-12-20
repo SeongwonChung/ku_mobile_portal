@@ -1,23 +1,18 @@
-import logo from './logo.svg';
-import './App.css';
+
+import { Header, Footer, AccessContainer, Notice } from "./components/index.js"
+import { NoticeContent, ScheduleContent} from "./NoticeData.js"
+import styles from "./styles/App.module.css"
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Header/>
+      <div className={styles.bigContainer}>
+      <AccessContainer/>
+      <Notice title="학사일정" contents={ScheduleContent}/>
+      <Notice title="공지사항" contents={NoticeContent}/>
+      </div>
+      <Footer/>
     </div>
   );
 }

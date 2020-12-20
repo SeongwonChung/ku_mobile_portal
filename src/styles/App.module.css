@@ -1,0 +1,9 @@
+* {
+    /* align-items: center; */
+    margin: 0 auto;
+}
+
+.bigContainer {
+    width: 100%;
+    padding-top: 74px;
+}

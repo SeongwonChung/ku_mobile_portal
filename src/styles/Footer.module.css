@@ -1,0 +1,51 @@
+.container {
+    min-width: 320px;
+}
+.familySite {
+    width: 100%;
+    height: 40px;
+    font-size: 20px;
+    font-weight: 600;
+    color: #fff;
+    background-color: #c10547;
+    cursor: pointer;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.familySite_text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.familySite_text > span {
+    margin-right: 10px;
+}
+
+.footer {
+    font-size: 14px;
+    background-color: #7c7c7c;
+    color: #fff;
+    font-weight: 400;
+    padding: 10px 15px 10px 15px;
+}
+.contact {
+    margin-bottom: 6px;
+}
+.seoul {
+    font-weight: 500;
+    margin-right: 10px;
+}
+.sejong {
+    margin-right: 10px;
+    font-weight: 500;
+}
+.copyright {
+    font-size: 12px;
+    font-weight: 400;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

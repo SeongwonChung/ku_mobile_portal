@@ -1,0 +1,24 @@
+.container {
+    width: 100%;
+    overflow-y: scroll;
+    border-top: 1px solid #c10547;
+    /* position: fixed; */
+    z-index: 20;
+}
+
+
+.list > li {
+    list-style: none;
+    height: 30px;
+    font-size: 16px;
+    font-weight: 500;
+    background: #fff;
+    padding: 12px;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    border-bottom: 1px solid #d8c8ce;
+    cursor: pointer;
+}
