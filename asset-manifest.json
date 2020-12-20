@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ku_mobile_portal/static/css/main.19a439bb.chunk.css",
+    "main.js": "/ku_mobile_portal/static/js/main.4e4e3766.chunk.js",
+    "main.js.map": "/ku_mobile_portal/static/js/main.4e4e3766.chunk.js.map",
+    "runtime-main.js": "/ku_mobile_portal/static/js/runtime-main.dd4374d7.js",
+    "runtime-main.js.map": "/ku_mobile_portal/static/js/runtime-main.dd4374d7.js.map",
+    "static/js/2.cc4bf0a2.chunk.js": "/ku_mobile_portal/static/js/2.cc4bf0a2.chunk.js",
+    "static/js/2.cc4bf0a2.chunk.js.map": "/ku_mobile_portal/static/js/2.cc4bf0a2.chunk.js.map",
+    "static/js/3.9d3106bb.chunk.js": "/ku_mobile_portal/static/js/3.9d3106bb.chunk.js",
+    "static/js/3.9d3106bb.chunk.js.map": "/ku_mobile_portal/static/js/3.9d3106bb.chunk.js.map",
+    "index.html": "/ku_mobile_portal/index.html",
+    "static/css/main.19a439bb.chunk.css.map": "/ku_mobile_portal/static/css/main.19a439bb.chunk.css.map",
+    "static/js/2.cc4bf0a2.chunk.js.LICENSE.txt": "/ku_mobile_portal/static/js/2.cc4bf0a2.chunk.js.LICENSE.txt",
+    "static/media/small_logo.79beb907.svg": "/ku_mobile_portal/static/media/small_logo.79beb907.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd4374d7.js",
+    "static/js/2.cc4bf0a2.chunk.js",
+    "static/css/main.19a439bb.chunk.css",
+    "static/js/main.4e4e3766.chunk.js"
+  ]
+}
