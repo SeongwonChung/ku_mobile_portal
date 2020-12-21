@@ -3,6 +3,8 @@
 
 -url: https://seongwonchung.github.io/ku_mobile_portal/
 
+- Screenshot
+![eximage](./img/ku_mobile_portal.png)
 0. Description
 기존 KUPID는 모바일 최적화가 되어있지 않은 UI로 인해 모바일 기기에서 사용시 User Interface problem이 많다.
 이를 개선하기 위한 KUPID mobile UI prototype이다.
